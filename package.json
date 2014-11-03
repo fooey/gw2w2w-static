@@ -1,0 +1,19 @@
+{
+  "name": "gw2w2w-static",
+  "version": "0.0.2",
+  "description": "gw2w2w-static\r =============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fooey/gw2w2w-static.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fooey/gw2w2w-static/issues"
+  },
+  "homepage": "https://github.com/fooey/gw2w2w-static"
+}
