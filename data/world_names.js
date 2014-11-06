@@ -1,6 +1,7 @@
 module.exports = {
 	"1001": {
 		"id": "1001",
+		"region": "1",
 		"de": {
 			"name": "Ambossfels",
 			"slug": "ambossfels"
@@ -20,6 +21,7 @@ module.exports = {
 	},
 	"1002": {
 		"id": "1002",
+		"region": "1",
 		"de": {
 			"name": "Borlis-Pass",
 			"slug": "borlis-pass"
@@ -39,6 +41,7 @@ module.exports = {
 	},
 	"1003": {
 		"id": "1003",
+		"region": "1",
 		"de": {
 			"name": "Jakbiegung",
 			"slug": "jakbiegung"
@@ -58,6 +61,7 @@ module.exports = {
 	},
 	"1004": {
 		"id": "1004",
+		"region": "1",
 		"de": {
 			"name": "Denravis Erdwerk",
 			"slug": "denravis-erdwerk"
@@ -77,6 +81,7 @@ module.exports = {
 	},
 	"1005": {
 		"id": "1005",
+		"region": "1",
 		"de": {
 			"name": "Maguuma",
 			"slug": "maguuma"
@@ -96,6 +101,7 @@ module.exports = {
 	},
 	"1006": {
 		"id": "1006",
+		"region": "1",
 		"de": {
 			"name": "Hochofen der Betrübnis",
 			"slug": "hochofen-der-betrubnis"
@@ -115,6 +121,7 @@ module.exports = {
 	},
 	"1007": {
 		"id": "1007",
+		"region": "1",
 		"de": {
 			"name": "Tor des Irrsinns",
 			"slug": "tor-des-irrsinns"
@@ -134,6 +141,7 @@ module.exports = {
 	},
 	"1008": {
 		"id": "1008",
+		"region": "1",
 		"de": {
 			"name": "Jade-Steinbruch",
 			"slug": "jade-steinbruch"
@@ -153,6 +161,7 @@ module.exports = {
 	},
 	"1009": {
 		"id": "1009",
+		"region": "1",
 		"de": {
 			"name": "Fort Espenwald",
 			"slug": "fort-espenwald"
@@ -172,6 +181,7 @@ module.exports = {
 	},
 	"1010": {
 		"id": "1010",
+		"region": "1",
 		"de": {
 			"name": "Ehmry-Bucht",
 			"slug": "ehmry-bucht"
@@ -191,6 +201,7 @@ module.exports = {
 	},
 	"1011": {
 		"id": "1011",
+		"region": "1",
 		"de": {
 			"name": "Sturmklippen-Insel",
 			"slug": "sturmklippen-insel"
@@ -210,6 +221,7 @@ module.exports = {
 	},
 	"1012": {
 		"id": "1012",
+		"region": "1",
 		"de": {
 			"name": "Finsterfreistatt",
 			"slug": "finsterfreistatt"
@@ -229,6 +241,7 @@ module.exports = {
 	},
 	"1013": {
 		"id": "1013",
+		"region": "1",
 		"de": {
 			"name": "Heilige Halle von Rall",
 			"slug": "heilige-halle-von-rall"
@@ -248,6 +261,7 @@ module.exports = {
 	},
 	"1014": {
 		"id": "1014",
+		"region": "1",
 		"de": {
 			"name": "Kristallwüste",
 			"slug": "kristallwuste"
@@ -267,6 +281,7 @@ module.exports = {
 	},
 	"1015": {
 		"id": "1015",
+		"region": "1",
 		"de": {
 			"name": "Janthir-Insel",
 			"slug": "janthir-insel"
@@ -286,6 +301,7 @@ module.exports = {
 	},
 	"1016": {
 		"id": "1016",
+		"region": "1",
 		"de": {
 			"name": "Meer des Leids",
 			"slug": "meer-des-leids"
@@ -305,6 +321,7 @@ module.exports = {
 	},
 	"1017": {
 		"id": "1017",
+		"region": "1",
 		"de": {
 			"name": "Befleckte Küste",
 			"slug": "befleckte-kuste"
@@ -324,6 +341,7 @@ module.exports = {
 	},
 	"1018": {
 		"id": "1018",
+		"region": "1",
 		"de": {
 			"name": "Nördliche Zittergipfel",
 			"slug": "nordliche-zittergipfel"
@@ -343,6 +361,7 @@ module.exports = {
 	},
 	"1019": {
 		"id": "1019",
+		"region": "1",
 		"de": {
 			"name": "Schwarztor",
 			"slug": "schwarztor"
@@ -362,6 +381,7 @@ module.exports = {
 	},
 	"1020": {
 		"id": "1020",
+		"region": "1",
 		"de": {
 			"name": "Fergusons Kreuzung",
 			"slug": "fergusons-kreuzung"
@@ -381,6 +401,7 @@ module.exports = {
 	},
 	"1021": {
 		"id": "1021",
+		"region": "1",
 		"de": {
 			"name": "Drachenbrand",
 			"slug": "drachenbrand"
@@ -400,6 +421,7 @@ module.exports = {
 	},
 	"1022": {
 		"id": "1022",
+		"region": "1",
 		"de": {
 			"name": "Kaineng",
 			"slug": "kaineng"
@@ -419,6 +441,7 @@ module.exports = {
 	},
 	"1023": {
 		"id": "1023",
+		"region": "1",
 		"de": {
 			"name": "Devonas Rast",
 			"slug": "devonas-rast"
@@ -438,6 +461,7 @@ module.exports = {
 	},
 	"1024": {
 		"id": "1024",
+		"region": "1",
 		"de": {
 			"name": "Eredon-Terrasse",
 			"slug": "eredon-terrasse"
@@ -457,6 +481,7 @@ module.exports = {
 	},
 	"2001": {
 		"id": "2001",
+		"region": "2",
 		"de": {
 			"name": "Klagenriss",
 			"slug": "klagenriss"
@@ -476,6 +501,7 @@ module.exports = {
 	},
 	"2002": {
 		"id": "2002",
+		"region": "2",
 		"de": {
 			"name": "Ödnis",
 			"slug": "odnis"
@@ -495,6 +521,7 @@ module.exports = {
 	},
 	"2003": {
 		"id": "2003",
+		"region": "2",
 		"de": {
 			"name": "Gandara",
 			"slug": "gandara"
@@ -514,6 +541,7 @@ module.exports = {
 	},
 	"2004": {
 		"id": "2004",
+		"region": "2",
 		"de": {
 			"name": "Schwarzflut",
 			"slug": "schwarzflut"
@@ -533,6 +561,7 @@ module.exports = {
 	},
 	"2005": {
 		"id": "2005",
+		"region": "2",
 		"de": {
 			"name": "Feuerring",
 			"slug": "feuerring"
@@ -552,6 +581,7 @@ module.exports = {
 	},
 	"2006": {
 		"id": "2006",
+		"region": "2",
 		"de": {
 			"name": "Unterwelt",
 			"slug": "unterwelt"
@@ -571,6 +601,7 @@ module.exports = {
 	},
 	"2007": {
 		"id": "2007",
+		"region": "2",
 		"de": {
 			"name": "Ferne Zittergipfel",
 			"slug": "ferne-zittergipfel"
@@ -590,6 +621,7 @@ module.exports = {
 	},
 	"2008": {
 		"id": "2008",
+		"region": "2",
 		"de": {
 			"name": "Weißflankgrat",
 			"slug": "weissflankgrat"
@@ -609,6 +641,7 @@ module.exports = {
 	},
 	"2009": {
 		"id": "2009",
+		"region": "2",
 		"de": {
 			"name": "Ruinen von Surmia",
 			"slug": "ruinen-von-surmia"
@@ -628,6 +661,7 @@ module.exports = {
 	},
 	"2010": {
 		"id": "2010",
+		"region": "2",
 		"de": {
 			"name": "Seemannsrast",
 			"slug": "seemannsrast"
@@ -647,6 +681,7 @@ module.exports = {
 	},
 	"2011": {
 		"id": "2011",
+		"region": "2",
 		"de": {
 			"name": "Vabbi",
 			"slug": "vabbi"
@@ -666,6 +701,7 @@ module.exports = {
 	},
 	"2012": {
 		"id": "2012",
+		"region": "2",
 		"de": {
 			"name": "Piken-Platz",
 			"slug": "piken-platz"
@@ -685,6 +721,7 @@ module.exports = {
 	},
 	"2013": {
 		"id": "2013",
+		"region": "2",
 		"de": {
 			"name": "Lichtung der Morgenröte",
 			"slug": "lichtung-der-morgenrote"
@@ -704,6 +741,7 @@ module.exports = {
 	},
 	"2014": {
 		"id": "2014",
+		"region": "2",
 		"de": {
 			"name": "Gunnars Feste",
 			"slug": "gunnars-feste"
@@ -723,6 +761,7 @@ module.exports = {
 	},
 	"2101": {
 		"id": "2101",
+		"region": "2",
 		"de": {
 			"name": "Jademeer [FR]",
 			"slug": "jademeer-fr"
@@ -742,6 +781,7 @@ module.exports = {
 	},
 	"2102": {
 		"id": "2102",
+		"region": "2",
 		"de": {
 			"name": "Fort Ranik [FR]",
 			"slug": "fort-ranik-fr"
@@ -761,6 +801,7 @@ module.exports = {
 	},
 	"2103": {
 		"id": "2103",
+		"region": "2",
 		"de": {
 			"name": "Augurenstein [FR]",
 			"slug": "augurenstein-fr"
@@ -780,6 +821,7 @@ module.exports = {
 	},
 	"2104": {
 		"id": "2104",
+		"region": "2",
 		"de": {
 			"name": "Vizunah-Platz [FR]",
 			"slug": "vizunah-platz-fr"
@@ -799,6 +841,7 @@ module.exports = {
 	},
 	"2105": {
 		"id": "2105",
+		"region": "2",
 		"de": {
 			"name": "Laubenstein [FR]",
 			"slug": "laubenstein-fr"
@@ -818,6 +861,7 @@ module.exports = {
 	},
 	"2201": {
 		"id": "2201",
+		"region": "2",
 		"de": {
 			"name": "Kodasch [DE]",
 			"slug": "kodasch-de"
@@ -837,6 +881,7 @@ module.exports = {
 	},
 	"2202": {
 		"id": "2202",
+		"region": "2",
 		"de": {
 			"name": "Flussufer [DE]",
 			"slug": "flussufer-de"
@@ -856,6 +901,7 @@ module.exports = {
 	},
 	"2203": {
 		"id": "2203",
+		"region": "2",
 		"de": {
 			"name": "Elonafels [DE]",
 			"slug": "elonafels-de"
@@ -875,6 +921,7 @@ module.exports = {
 	},
 	"2204": {
 		"id": "2204",
+		"region": "2",
 		"de": {
 			"name": "Abaddons Mund [DE]",
 			"slug": "abaddons-mund-de"
@@ -894,6 +941,7 @@ module.exports = {
 	},
 	"2205": {
 		"id": "2205",
+		"region": "2",
 		"de": {
 			"name": "Drakkar-See [DE]",
 			"slug": "drakkar-see-de"
@@ -913,6 +961,7 @@ module.exports = {
 	},
 	"2206": {
 		"id": "2206",
+		"region": "2",
 		"de": {
 			"name": "Millersund [DE]",
 			"slug": "millersund-de"
@@ -932,6 +981,7 @@ module.exports = {
 	},
 	"2207": {
 		"id": "2207",
+		"region": "2",
 		"de": {
 			"name": "Dzagonur [DE]",
 			"slug": "dzagonur-de"
@@ -951,6 +1001,7 @@ module.exports = {
 	},
 	"2301": {
 		"id": "2301",
+		"region": "2",
 		"de": {
 			"name": "Baruch-Bucht [SP]",
 			"slug": "baruch-bucht-sp"
