@@ -1,7 +1,10 @@
 module.exports = [
 	{
 		"key": "Center",
+		"name": "Eternal Battlegrounds",
+		"abbr": "EBG",
 		"mapIndex": 3,
+		"color": "neutral",
 		"sections": [{
 				"label": "Castle",
 				"groupType": "neutral",
@@ -21,12 +24,15 @@ module.exports = [
 			},],
 	}, {
 		"key": "RedHome",
+		"name": "RedHome",
+		"abbr": "Red",
 		"mapIndex": 0,
+		"color": "red",
 		"sections": [{
 				"label": "Keeps",
 				"groupType": "red",
 				"objectives": [37, 33, 32] 						// keep, bay, hills, longview, cliffside, godsword, hopes, astral
-			}, {	
+			}, {
 				"label": "North",
 				"groupType": "red",
 				"objectives": [38, 40, 39, 52, 51] 				// keep, bay, hills, longview, cliffside, godsword, hopes, astral
@@ -41,7 +47,10 @@ module.exports = [
 			},],
 	}, {
 		"key": "BlueHome",
+		"name": "BlueHome",
+		"abbr": "Blu",
 		"mapIndex": 2,
+		"color": "blue",
 		"sections": [{
 				"label": "Keeps",
 				"groupType": "blue",
@@ -61,7 +70,10 @@ module.exports = [
 			},],
 	}, {
 		"key": "GreenHome",
+		"name": "GreenHome",
+		"abbr": "Grn",
 		"mapIndex": 1,
+		"color": "green",
 		"sections": [{
 				"label": "Keeps",
 				"groupType": "green",
