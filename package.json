@@ -1,6 +1,6 @@
 {
   "name": "gw2w2w-static",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "gw2w2w-static\r =============",
   "main": "index.js",
   "scripts": {
