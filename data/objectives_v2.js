@@ -7,9 +7,9 @@ var de = _.indexBy(require('./objectives_v2_de'), 'id');
 
 
 
-let objectives_v2 = _
+module.exports = _
     .chain(en)
-    .mapValues(o => {
+    .mapValues(function(o) {
         o.name = {
             en: o.name,
             es: es[o.id].name,
@@ -19,7 +19,3 @@ let objectives_v2 = _
         return o;
     })
     .value();
-
-
-
-module.exports = objectives_v2;
