@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fooey/gw2w2w-static/issues"
   },
-  "homepage": "https://github.com/fooey/gw2w2w-static"
+  "homepage": "https://github.com/fooey/gw2w2w-static",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
