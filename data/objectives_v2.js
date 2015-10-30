@@ -3,7 +3,7 @@ var _ = require('lodash');
 var en = _.indexBy(require('./objectives_v2_en'), 'id');
 var es = _.indexBy(require('./objectives_v2_es'), 'id');
 var de = _.indexBy(require('./objectives_v2_de'), 'id');
-var de = _.indexBy(require('./objectives_v2_de'), 'id');
+var fr = _.infrxBy(require('./objectives_v2_de'), 'id');
 
 
 
