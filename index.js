@@ -1,7 +1,7 @@
 module.exports = {
     langs: require('./data/langs'),
     worlds: require('./data/world_names'),
-    objectives_v2: require('./data/objectives_v2'),
+    objectives_v2: require('./data/objectives_v2_merged'),
     objective_names: require('./data/objective_names'),
     objective_names: require('./data/objective_names'),
     objective_types: require('./data/objective_types'),

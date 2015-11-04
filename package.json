@@ -1,6 +1,6 @@
 {
   "name": "gw2w2w-static",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "description": "gw2w2w-static\r =============",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,5 @@
     "url": "https://github.com/fooey/gw2w2w-static/issues"
   },
   "homepage": "https://github.com/fooey/gw2w2w-static",
-  "dependencies": {
-    "lodash": "^3.10.1"
-  }
+  "dependencies": {}
 }
