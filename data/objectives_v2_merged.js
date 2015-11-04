@@ -1,4 +1,4 @@
-modules.exports = {
+module.exports = {
     "1099-99": {
         "id": "1099-99",
         "name": {
